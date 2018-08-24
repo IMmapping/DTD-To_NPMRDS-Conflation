@@ -1,4 +1,4 @@
 # Open-Street-Maps-Conflation
 Jupyter Notebooks used for conflation of DTD's modeling network to the Open Street Map Network
 
-Webmap coming soon, map package available at: http://cdot.maps.arcgis.com/home/item.html?id=c183ff1fa33b458baf0b08fdc0a1ca30
+Webmap available at:http://cdot.maps.arcgis.com/home/webmap/viewer.html?useExisting=1&layers=f8fdc0fbc66e45e5bb6fc2d87649662a
